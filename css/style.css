@@ -27,8 +27,8 @@ input[type="button"],input[type="submit"],li.parallelogram{
 	-ms-transition:0.5s all;
 }
 h1,h2,h3,h4,h5,h6{
-	margin:0;			   
-}	
+	margin:0;
+}
 p{
 	margin:0;
 }
@@ -57,7 +57,7 @@ text-decoration:none;
   -o-background-size: cover;
   -moz-background-size: cover;
   -ms-background-size: cover;
-  min-height:900px;
+  min-height:200px;
 }
 ul.banner-imgs {
     margin: 4% auto 0;
@@ -256,7 +256,7 @@ ul.callbacks_tabs.callbacks1_tabs {
  padding: 4.4em 0em 4.4em 11em;
   float: right;
 }
-.features-right h4 { 
+.features-right h4 {
   font-size:3em;
   margin-top: 0.5em;
   font-weight:400;
@@ -313,7 +313,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 .review-slider {
   margin-top: 4em;
 }
-.screen-shots h4 { 
+.screen-shots h4 {
   margin-top: 0.5em;
      font-size: 3em;
   color: #fff;
@@ -350,7 +350,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 	position: relative;
 	line-height: 0px;
 }
-.nbs-flexisel-item > img {	
+.nbs-flexisel-item > img {
 	cursor: pointer;
 	position: relative;
 	  width: 80%;
@@ -565,7 +565,7 @@ color:#C0B9CD;
 	 font-size: 2em;
   font-weight: 400;
   color:#3498DB;
-  margin-bottom: 0.5em;  
+  margin-bottom: 0.5em;
     text-align: left;
 }
 .contact-row-left p{
@@ -573,7 +573,7 @@ color:#C0B9CD;
   line-height: 1.7em;
     padding-top: 6px;
   font-weight: 400;
-  font-size: 0.95em;	
+  font-size: 0.95em;
 }
 .contact-row-left p.add-mark{
 	  color: #fff;
@@ -583,7 +583,7 @@ color:#C0B9CD;
 	 padding:0px;
 	   color: #fff;
 	 padding:0.5em 0;
-  
+
 }
 .contact-row-left p.ema-mark a{
 	 padding:0px;
@@ -593,7 +593,7 @@ color:#C0B9CD;
 }
 .contact-row-left p.ema-mark span,.contact-row-left p.add-mark span,.contact-row-left p.cel-mark span{
 	margin-right:10px;
-			
+
 }
 .contact input[type="text"]{
    width: 100%;
@@ -628,7 +628,7 @@ textarea{
 	 font-weight: 400;
 	 font-size:18px;
 	 -webkit-appearance:none;
- 
+
 }
 .contact input[type="submit"]:hover,.contact input[type="reset"]:hover{
 	 background:#ffffff;
@@ -787,7 +787,7 @@ ul.top-social-icons {
 	border-radius: 0.2em;
 	-moz-border-radius: 0.2em;
 	-o-border-radius: 0.2em;
-	-webkit-border-radius: 0.2em; 
+	-webkit-border-radius: 0.2em;
 }
 [data-tooltip]:hover, [data-tooltip]:focus {
 	background-color: rgba(0, 0, 0, 0);
@@ -983,7 +983,7 @@ ul.top-social-icons {
    .members {
     padding: 6em 0;
    }
-   .contact {  
+   .contact {
 	  padding: 3em 0;
    }
    .footer-button a {
@@ -1086,7 +1086,7 @@ ul.top-social-icons {
 	  margin-top: 0em;
 	}
 	.members {
-	  padding: 3em 0;	
+	  padding: 3em 0;
 	}
 	.member-grid-right {
 	  float: none;
@@ -1601,4 +1601,3 @@ ul.top-social-icons {
 	  padding: 0;
 	}
 }
-	
